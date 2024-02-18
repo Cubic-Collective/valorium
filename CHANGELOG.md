@@ -1,6 +1,7 @@
 # Changelog
 
 ### Valorium v0.1.1 - 18/02/2024
+---
 
  Adição de opções padrão.
  
@@ -10,4 +11,6 @@
   - Default Options v18.0.1
 
 ### Valorium v0.1 - 10/02/2024
+---
+
  Commit inicial
