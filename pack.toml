@@ -1,13 +1,16 @@
 name = "Valorium"
 author = "Riser876"
-version = "0.1"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "afe5d75efdb1a1ae5514c857bbb26bcfc43b1cbc0dfae45c7d0c6d642b37e64e"
+hash = "7c4cb32ed18dd98b76e22282272f2ce8e85f1d764c7ff082dfeb7fa00569a664"
 
 [versions]
 fabric = "0.15.6"
 minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]

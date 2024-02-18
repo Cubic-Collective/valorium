@@ -1,9 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "033ee62537f1a7cca1f1a34bb6bf6ed8094743792d167152c945313c7c5092a4"
+file = "config/defaultoptions-common.toml"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
-file = "README.md"
-hash = "eaf5ee554d52e6d4519f2ccb8fe56762809d9ebbbaef05d207b5817df3225b3e"
+file = "config/defaultoptions/keybindings.txt"
+hash = "1a9cf99e7e533ec7e378bda78e7ef58f74efc9b7dd766610268e443f05203d9e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "5d3edf32d2f11b088817b705dd33ebfe8a6dd7c40a549357d6080107d82039b2"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "5aba6826beb32662b67f20cbe2ad203ea4797843c7ec6ffc9713b82a2ae75578"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
