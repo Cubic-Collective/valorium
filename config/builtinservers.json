@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "Valorium [OFICIAL]",
+      "address": "valorium.net.br",
+      "forced": true
+    }
+  ]
+}

@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.1.2 - 26/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Builtin Servers
+
 Valorium v0.1.1 - 18/02/2024
 ---------------
 
