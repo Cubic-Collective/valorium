@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.1.3 - 27/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Sodium v0.5.8
+  - Dynamic FPS v3.4.2
+  - Mod Menu v7.2.2
+
 Valorium v0.1.2 - 26/02/2024
 ---------------
  
