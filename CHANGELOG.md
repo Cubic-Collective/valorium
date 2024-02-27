@@ -4,7 +4,7 @@ Valorium v0.1.2 - 26/02/2024
 ---------------
  
 - **Adicionado**:
-  - Builtin Servers
+  - Builtin Servers v2.1
 
 Valorium v0.1.1 - 18/02/2024
 ---------------
