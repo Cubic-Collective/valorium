@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions-common.toml"
-hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
+file = "config/builtinservers.json"
+hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -10,15 +10,16 @@ hash = "1a9cf99e7e533ec7e378bda78e7ef58f74efc9b7dd766610268e443f05203d9e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5d3edf32d2f11b088817b705dd33ebfe8a6dd7c40a549357d6080107d82039b2"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "5aba6826beb32662b67f20cbe2ad203ea4797843c7ec6ffc9713b82a2ae75578"
+hash = "9ccb65af783b355c2048846a5717d9634cdee1091b8d9b5c31bc8b71663024aa"
 
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
 metafile = true
 
 [[files]]
