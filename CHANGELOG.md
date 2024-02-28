@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium v0.1.4 - 27/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Clumps v12.0.0.3
+  - More Chat History v1.3.0
+
 Valorium v0.1.3 - 27/02/2024
 ---------------
  
