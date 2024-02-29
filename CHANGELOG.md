@@ -1,5 +1,14 @@
 # Changelog
 
+Valorium v0.2.0 - 29/02/2024
+---------------
+ 
+- **Adicionado**:
+  - No Telemetry v1.8.0
+  - Searchables v1.0.2
+  - Controlling v12.0.2
+  - Language Reload v1.5.10
+
 Valorium v0.1.5 - 28/02/2024
 ---------------
  
