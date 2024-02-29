@@ -6,15 +6,27 @@ hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "342a406427d690a47d290637b8c03dd7d11fb30cc7bf7d5b57bdfc86f70afaad"
+hash = "5268443cfe2c3adef52beb95a1766457f45e74ac3ad785a09836e3396b3cfb04"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "9ccb65af783b355c2048846a5717d9634cdee1091b8d9b5c31bc8b71663024aa"
+hash = "c1c52096acd78f36469bd40d8fbbf95dde19a359b28d54666046afdbb30bfedb"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "9d78cba7c53ede8472b092e8ec771c8b1ebe6e77b9ec09cfedd291952df24d49"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "dadfb3658976c98a7638d56a996340f5ab9aa74a70f8cd24b870862baa3299b2"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "91980d01f6499e7503ef307ecb8dac49a1fd086282f4c18873e5d6cb7586861f"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -32,6 +44,11 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
@@ -42,8 +59,28 @@ hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "ace5c16356f83d83a41ba828d3657324f5bcdc0dfc75ff950d371f9feef742f2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]

@@ -1,5 +1,15 @@
 # Changelog
 
+Valorium v0.1.5 - 28/02/2024
+---------------
+ 
+- **Adicionado**:
+  - Continuity v3.0.0
+  - Indium v1.0.30
+  - [ETF] Entity Texture Features v5.2.3
+  - [EMF] Entity Model Features v1.2.3
+  - Enhanced Block Entities v0.9
+
 Valorium v0.1.4 - 27/02/2024
 ---------------
  
