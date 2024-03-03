@@ -21,6 +21,10 @@ file = "config/entity_texture_features.json"
 hash = "dadfb3658976c98a7638d56a996340f5ab9aa74a70f8cd24b870862baa3299b2"
 
 [[files]]
+file = "config/languagereload.json"
+hash = "b7826f676d1cc0128d7a7a3c54c41803827aad2deba8612f69a3be5f9929beed"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
@@ -36,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/builtin-servers.pw.toml"
 hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -84,6 +93,11 @@ hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -91,6 +105,16 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]

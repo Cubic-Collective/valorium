@@ -1,5 +1,14 @@
 # Changelog
 
+Valorium v0.3.0 - 03/03/2024
+---------------
+ 
+- **Adicionado**:
+  - Lithium v0.11.2
+  - FerriteCore v6.0.1
+  - Memory Leak Fix v1.1.5
+  - Cloth Config API v11.1.118
+
 Valorium v0.2.0 - 29/02/2024
 ---------------
  
