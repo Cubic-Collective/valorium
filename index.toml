@@ -10,7 +10,7 @@ hash = "342a406427d690a47d290637b8c03dd7d11fb30cc7bf7d5b57bdfc86f70afaad"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "c1c52096acd78f36469bd40d8fbbf95dde19a359b28d54666046afdbb30bfedb"
+hash = "061abd1d40a31503667d7c545ca3ad18600bd5bc289dec2de5cbafe33cec8d32"
 
 [[files]]
 file = "config/enhanced_bes.properties"
