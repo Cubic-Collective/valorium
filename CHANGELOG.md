@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.3.1 - 03/03/2024
+---------------
+
+- **Mudanças**:
+  - Balm v7.2.1 para v7.2.2
+
 Valorium v0.3.0 - 03/03/2024
 ---------------
 
