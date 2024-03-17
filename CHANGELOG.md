@@ -1,6 +1,6 @@
 # Changelog
 
-Valorium v0.3.1 - 03/03/2024
+Valorium v0.3.2 - 16/03/2024
 ---------------
 
 - **Mudanças**:
