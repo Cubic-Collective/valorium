@@ -1,7 +1,7 @@
 {
-  "illegalPathSupportMode": "None",
+  "illegalPathSupportMode": "Entity",
   "enableCustomTextures": true,
-  "enableCustomBlockEntities": false,
+  "enableCustomBlockEntities": true,
   "textureUpdateFrequency_V2": "Fast",
   "restrictBiome": true,
   "restrictHeight": true,
@@ -11,7 +11,7 @@
   "restrictMoonPhase": true,
   "enableEmissiveTextures": true,
   "enableEnchantedTextures": true,
-  "enableEmissiveBlockEntities": false,
+  "enableEmissiveBlockEntities": true,
   "emissiveRenderMode": "DULL",
   "alwaysCheckVanillaEmissiveSuffix": true,
   "enableArmorAndTrims": true,
