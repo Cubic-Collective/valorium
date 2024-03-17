@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.3.2 - 16/03/2024
+---------------
+
+- **Mudanças**:
+  - [EMF] Entity Model Features v1.2.3 para v1.3
+
 Valorium v0.3.1 - 03/03/2024
 ---------------
 

@@ -14,11 +14,15 @@ hash = "061abd1d40a31503667d7c545ca3ad18600bd5bc289dec2de5cbafe33cec8d32"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "9d78cba7c53ede8472b092e8ec771c8b1ebe6e77b9ec09cfedd291952df24d49"
+hash = "23f46f39517a31663d9e248bcfa423c97e25222fb0b14b99903dc814e6040ccc"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "9486e0728e9e3406d7ea5878cadc46eca9b9ef45fd8cabb74b0f0f092797f500"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "dadfb3658976c98a7638d56a996340f5ab9aa74a70f8cd24b870862baa3299b2"
+hash = "0ea8b19e865b83386bb9d8dc76d4f03db1bb697e72b0c8a32fe663826007c5e3"
 
 [[files]]
 file = "config/languagereload.json"
@@ -79,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ace5c16356f83d83a41ba828d3657324f5bcdc0dfc75ff950d371f9feef742f2"
+hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
 metafile = true
 
 [[files]]
