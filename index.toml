@@ -47,6 +47,11 @@ hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -84,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
@@ -144,4 +154,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true

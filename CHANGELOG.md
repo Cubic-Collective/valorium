@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.4.0 - 31/03/2024
+---------------
+
+- **Adicionado**:
+  - Entity Culling v1.6.2
+  - ClearDespawn v1.1.15
+  - Tiny Item Animations v1.1
+
 Valorium v0.3.2 - 16/03/2024
 ---------------
 
