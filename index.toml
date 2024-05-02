@@ -5,6 +5,10 @@ file = "config/builtinservers.json"
 hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
 [[files]]
+file = "config/cleardespawn.toml"
+hash = "4abf008085bb703d9bfc76ea395e6f961a8712d15820b9be2901e125efccde4b"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "342a406427d690a47d290637b8c03dd7d11fb30cc7bf7d5b57bdfc86f70afaad"
 
@@ -18,11 +22,11 @@ hash = "23f46f39517a31663d9e248bcfa423c97e25222fb0b14b99903dc814e6040ccc"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "9486e0728e9e3406d7ea5878cadc46eca9b9ef45fd8cabb74b0f0f092797f500"
+hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "0ea8b19e865b83386bb9d8dc76d4f03db1bb697e72b0c8a32fe663826007c5e3"
+hash = "01c5e145f4d1a199e07e6d4dc786d34ee2ede8eb03b64b3185f4998d398efcfe"
 
 [[files]]
 file = "config/languagereload.json"
@@ -58,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
@@ -78,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -88,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
+hash = "52dba30a707ef0cb51cd30462c47980de681e071d31e376f18bc507933ee2abb"
 metafile = true
 
 [[files]]
@@ -98,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -148,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
