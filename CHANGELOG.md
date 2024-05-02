@@ -6,7 +6,7 @@ Valorium v0.5.0 - 01/05/2024
 - **Adicionado**:
   - Configurações para ClearDespawn v1.1.15
 
-- **Mudanças**:
+- **Modificado**:
   - Fabric Loader v0.15.7 para v0.15.10
   - Dynamic FPS v3.4.2 para v3.4.3
   - Clumps v12.0.0.3 para v12.0.0.4
@@ -26,13 +26,13 @@ Valorium v0.4.0 - 31/03/2024
 Valorium v0.3.2 - 16/03/2024
 ---------------
 
-- **Mudanças**:
+- **Modificado**:
   - [EMF] Entity Model Features v1.2.3 para v1.3
 
 Valorium v0.3.1 - 03/03/2024
 ---------------
 
-- **Mudanças**:
+- **Modificado**:
   - Balm v7.2.1 para v7.2.2
 
 Valorium v0.3.0 - 03/03/2024
