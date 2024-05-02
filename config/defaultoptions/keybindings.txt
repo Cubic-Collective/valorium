@@ -34,4 +34,5 @@ key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_key.dynamic_fps.toggle_forced:key.keyboard.semicolon:NONE
 key_key.dynamic_fps.toggle_disabled:key.keyboard.semicolon:NONE
+key_key.entityculling.toggle:key.keyboard.semicolon:NONE
 key_key.modmenu.open_menu:key.keyboard.semicolon:NONE

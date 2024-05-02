@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.6.0 - 02/05/2024
+---------------
+
+- **Adicionado**:
+  - MixinTrace v1.1.1
+  - Not Enough Crashes v4.4.7
+  - Borderless Mining v1.1.8
+
 Valorium v0.5.0 - 01/05/2024
 ---------------
 
