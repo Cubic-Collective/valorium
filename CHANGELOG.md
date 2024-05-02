@@ -5,6 +5,7 @@ Valorium v0.5.0 - 01/05/2024
 
 - **Adicionado**:
   - Configurações para ClearDespawn v1.1.15
+
 - **Mudanças**:
   - Fabric Loader v0.15.7 para v0.15.10
   - Dynamic FPS v3.4.2 para v3.4.3
