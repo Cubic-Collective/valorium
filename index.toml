@@ -10,7 +10,7 @@ hash = "4abf008085bb703d9bfc76ea395e6f961a8712d15820b9be2901e125efccde4b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "342a406427d690a47d290637b8c03dd7d11fb30cc7bf7d5b57bdfc86f70afaad"
+hash = "d164bc039e83c1ef73ba7bdb5cff7294e7795882c2a963f516ab46448f127f45"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -43,6 +43,11 @@ hash = "91980d01f6499e7503ef307ecb8dac49a1fd086282f4c18873e5d6cb7586861f"
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
@@ -136,6 +141,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -148,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
 
 [[files]]
