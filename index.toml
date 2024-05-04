@@ -33,6 +33,10 @@ file = "config/languagereload.json"
 hash = "b7826f676d1cc0128d7a7a3c54c41803827aad2deba8612f69a3be5f9929beed"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "4623f5c3b78c5bf866acdc9bc0fdf7795dc93d9e058d1124b1ec0c0ececc8a61"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
@@ -131,6 +135,11 @@ hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -143,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
