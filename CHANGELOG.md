@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.7.1 - 04/05/2024
+---------------
+
+- **Modificado**:
+  - Alteração de formatação no arquivo de configuração de ModernFix
+
 Valorium v0.7.0 - 03/05/2024
 ---------------
 
