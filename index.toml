@@ -34,7 +34,7 @@ hash = "b7826f676d1cc0128d7a7a3c54c41803827aad2deba8612f69a3be5f9929beed"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "4623f5c3b78c5bf866acdc9bc0fdf7795dc93d9e058d1124b1ec0c0ececc8a61"
+hash = "0a6131acf909c79f576695e3cedf39876571e36a453d3a1f57fd60857d8c8939"
 
 [[files]]
 file = "config/modmenu.json"
