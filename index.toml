@@ -73,6 +73,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/breakfree.pw.toml"
+hash = "cd2d1e6dd9babc2d7371760004701ee53651089f01894cf9f641cad5c8ab6cab"
+metafile = true
+
+[[files]]
 file = "mods/builtin-servers.pw.toml"
 hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
 metafile = true
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
@@ -210,4 +220,9 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
 metafile = true

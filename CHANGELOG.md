@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.9.0 - 05/05/2024
+---------------
+
+- **Adicionado**:
+  - Break Free v1.2.0
+  - Cull Less Leaves v1.3.0
+  - YetAnotherConfigLib v3.4.2
+
 Valorium v0.8.0 - 04/05/2024
 ---------------
 
