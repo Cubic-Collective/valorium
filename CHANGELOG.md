@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium v0.8.0 - 04/05/2024
+---------------
+
+- **Adicionado**:
+  - Bobby v5.0.1
+  - Auth Me v7.0.2
+
 Valorium v0.7.1 - 04/05/2024
 ---------------
 

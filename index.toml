@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/authme.json5"
+hash = "6592da7294644aa29d7e9c20f0e0b80aa00870afba22f5cfcba9c6d2372ba4c1"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "7d634a1be3257f1d6824aeac7bb5a5472c046e8140b704ef61884339c6109e06"
+
+[[files]]
 file = "config/builtinservers.json"
 hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
@@ -14,7 +22,7 @@ hash = "d164bc039e83c1ef73ba7bdb5cff7294e7795882c2a963f516ab46448f127f45"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "061abd1d40a31503667d7c545ca3ad18600bd5bc289dec2de5cbafe33cec8d32"
+hash = "d5cb1336ab6b7ee42193c98aa777a7437e533a74c008c61a617a51729b61aef7"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -45,8 +53,18 @@ file = "config/sodium-options.json"
 hash = "91980d01f6499e7503ef307ecb8dac49a1fd086282f4c18873e5d6cb7586861f"
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
