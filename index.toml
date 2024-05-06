@@ -17,12 +17,16 @@ file = "config/cleardespawn.toml"
 hash = "4abf008085bb703d9bfc76ea395e6f961a8712d15820b9be2901e125efccde4b"
 
 [[files]]
+file = "config/cull-less-leaves.json"
+hash = "c7c3e8871dd46f8cc57248267c4777a30c540084bac1b7cf0612b11bd60f0701"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "d164bc039e83c1ef73ba7bdb5cff7294e7795882c2a963f516ab46448f127f45"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d5cb1336ab6b7ee42193c98aa777a7437e533a74c008c61a617a51729b61aef7"
+hash = "0364a72b2ab20549ddc69d095e8592587179e12c9e3668e293a1c3d117bf888f"
 
 [[files]]
 file = "config/enhanced_bes.properties"

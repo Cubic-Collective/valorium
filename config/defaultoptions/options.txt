@@ -37,11 +37,11 @@ entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
-graphicsMode:0
+graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"fast"
+renderClouds:"true"
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
