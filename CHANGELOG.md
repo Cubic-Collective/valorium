@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.9.1 - 06/05/2024
+---------------
+
+- **Modificado**:
+  - Alteração nas opções gráficas por conta do Cull Less Leaves.
+
 Valorium v0.9.0 - 05/05/2024
 ---------------
 
