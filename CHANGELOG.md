@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.9.2 - 11/05/2024
+---------------
+
+- **Modificado**:
+  - Ajustes nas opções gráficas.
+
 Valorium v0.9.1 - 06/05/2024
 ---------------
 
