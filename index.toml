@@ -26,7 +26,7 @@ hash = "d164bc039e83c1ef73ba7bdb5cff7294e7795882c2a963f516ab46448f127f45"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "0364a72b2ab20549ddc69d095e8592587179e12c9e3668e293a1c3d117bf888f"
+hash = "ad6133f292c1b1ea4551ed6afc627cab1a8565b968c67a8419a6d9d32341ca67"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -54,7 +54,7 @@ hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "91980d01f6499e7503ef307ecb8dac49a1fd086282f4c18873e5d6cb7586861f"
+hash = "dfd11277237f96f515da25daa126a1ec7c7c89588acc397fd7f00115c6c8e3b1"
 
 [[files]]
 file = "mods/auth-me.pw.toml"
