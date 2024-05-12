@@ -1,16 +1,25 @@
 # Changelog
 
+Valorium v0.10.0 - 11/05/2024
+---------------
+
+- **Adicionado**:
+  - Item Highlighter v1.1.9
+  - Forge Config Screens v8.0.2
+  - Forge Config API Port v8.0.0
+  - Iceberg v1.1.18
+
 Valorium v0.9.2 - 11/05/2024
 ---------------
 
 - **Modificado**:
-  - Ajustes nas opções gráficas.
+  - Ajustes nas opções gráficas
 
 Valorium v0.9.1 - 06/05/2024
 ---------------
 
 - **Modificado**:
-  - Alteração nas opções gráficas por conta do Cull Less Leaves.
+  - Alteração nas opções gráficas por conta do Cull Less Leaves
 
 Valorium v0.9.0 - 05/05/2024
 ---------------
