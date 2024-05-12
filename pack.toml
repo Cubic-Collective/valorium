@@ -1,12 +1,12 @@
 name = "Valorium"
-author = "Riser876"
-version = "0.9.2"
+author = "Riser876 / GMalvestiti"
+version = "0.10.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d5e928e13d65f4ef8ee87dbe8f8251c65bd8690de56e1dd9b1bcb38cccc96a24"
+hash = "77b71683f0c50810d5753b8f9a5baf2b38b9dbb894f97b89d91da12dfa327537"
 
 [versions]
 fabric = "0.15.10"
