@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.11.0 - 12/05/2024
+---------------
+
+- **Adicionado**:
+  - Iris Shaders v1.7.0
+- **Modificado**:
+  - Fabric Loader v0.15.10 para v0.15.11
+
 Valorium v0.10.0 - 11/05/2024
 ---------------
 

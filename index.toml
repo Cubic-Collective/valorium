@@ -22,7 +22,7 @@ hash = "c7c3e8871dd46f8cc57248267c4777a30c540084bac1b7cf0612b11bd60f0701"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d164bc039e83c1ef73ba7bdb5cff7294e7795882c2a963f516ab46448f127f45"
+hash = "bbd226f71b21acf1295b0b142149eb0683d8b6df526383e208aa42dfdb1124d0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -39,6 +39,10 @@ hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
 [[files]]
 file = "config/entity_texture_features.json"
 hash = "01c5e145f4d1a199e07e6d4dc786d34ee2ede8eb03b64b3185f4998d398efcfe"
+
+[[files]]
+file = "config/iris.properties"
+hash = "2cbf5f46141b2cee51af0fbff02f398759aaf20ea4a934f2c68440b641f8f065"
 
 [[files]]
 file = "config/languagereload.json"
@@ -174,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
