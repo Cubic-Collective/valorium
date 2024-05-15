@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.12.0 - 14/05/2024
+---------------
+
+- **Adicionado**:
+  - Configured Defaults v8.0.1
+- **Modificado**:
+  - Language Reload v1.5.10 para v1.6.1
+
 Valorium v0.11.0 - 12/05/2024
 ---------------
 
