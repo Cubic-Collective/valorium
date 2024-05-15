@@ -1,63 +1,67 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/authme.json5"
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/authme.json5"
 hash = "6592da7294644aa29d7e9c20f0e0b80aa00870afba22f5cfcba9c6d2372ba4c1"
 
 [[files]]
-file = "config/bobby.conf"
+file = "configureddefaults/config/bobby.conf"
 hash = "7d634a1be3257f1d6824aeac7bb5a5472c046e8140b704ef61884339c6109e06"
 
 [[files]]
-file = "config/builtinservers.json"
+file = "configureddefaults/config/builtinservers.json"
 hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
 [[files]]
-file = "config/cleardespawn.toml"
+file = "configureddefaults/config/cleardespawn.toml"
 hash = "4abf008085bb703d9bfc76ea395e6f961a8712d15820b9be2901e125efccde4b"
 
 [[files]]
-file = "config/cull-less-leaves.json"
+file = "configureddefaults/config/cull-less-leaves.json"
 hash = "c7c3e8871dd46f8cc57248267c4777a30c540084bac1b7cf0612b11bd60f0701"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
+file = "configureddefaults/config/defaultoptions/keybindings.txt"
 hash = "bbd226f71b21acf1295b0b142149eb0683d8b6df526383e208aa42dfdb1124d0"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
+file = "configureddefaults/config/defaultoptions/options.txt"
 hash = "ad6133f292c1b1ea4551ed6afc627cab1a8565b968c67a8419a6d9d32341ca67"
 
 [[files]]
-file = "config/enhanced_bes.properties"
+file = "configureddefaults/config/enhanced_bes.properties"
 hash = "23f46f39517a31663d9e248bcfa423c97e25222fb0b14b99903dc814e6040ccc"
 
 [[files]]
-file = "config/entity_model_features.json"
+file = "configureddefaults/config/entity_model_features.json"
 hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
 
 [[files]]
-file = "config/entity_texture_features.json"
+file = "configureddefaults/config/entity_texture_features.json"
 hash = "01c5e145f4d1a199e07e6d4dc786d34ee2ede8eb03b64b3185f4998d398efcfe"
 
 [[files]]
-file = "config/iris.properties"
+file = "configureddefaults/config/iris.properties"
 hash = "2cbf5f46141b2cee51af0fbff02f398759aaf20ea4a934f2c68440b641f8f065"
 
 [[files]]
-file = "config/languagereload.json"
-hash = "b7826f676d1cc0128d7a7a3c54c41803827aad2deba8612f69a3be5f9929beed"
+file = "configureddefaults/config/languagereload.json"
+hash = "dbe18401ce13daa0b07faa0725c0591a1ace761bc39c40dbd771013206b83773"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "0a6131acf909c79f576695e3cedf39876571e36a453d3a1f57fd60857d8c8939"
 
 [[files]]
-file = "config/modmenu.json"
+file = "configureddefaults/config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "dfd11277237f96f515da25daa126a1ec7c7c89588acc397fd7f00115c6c8e3b1"
 
 [[files]]
@@ -103,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
@@ -192,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
 
 [[files]]
