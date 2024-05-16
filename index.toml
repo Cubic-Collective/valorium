@@ -45,6 +45,10 @@ file = "configureddefaults/config/entity_texture_features.json"
 hash = "01c5e145f4d1a199e07e6d4dc786d34ee2ede8eb03b64b3185f4998d398efcfe"
 
 [[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "a24505b1270f7e0dad1d2863ca82d459790cebeaf64d0c62c160bf0033faeacd"
+
+[[files]]
 file = "configureddefaults/config/iris.properties"
 hash = "2cbf5f46141b2cee51af0fbff02f398759aaf20ea4a934f2c68440b641f8f065"
 

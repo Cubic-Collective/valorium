@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.12.1 - 15/05/2024
+---------------
+
+- **Adicionado**:
+  - Configurações para Entity Culling v1.6.2
+
 Valorium v0.12.0 - 14/05/2024
 ---------------
 
