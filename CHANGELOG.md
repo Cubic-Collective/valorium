@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.12.2 - 18/05/2024
+---------------
+
+- **Modificado**:
+  - Continuity v3.0.0-beta.4 para v3.0.0-beta.5
+
 Valorium v0.12.1 - 15/05/2024
 ---------------
 
@@ -136,7 +142,7 @@ Valorium v0.1.5 - 28/02/2024
 ---------------
 
 - **Adicionado**:
-  - Continuity v3.0.0
+  - Continuity v3.0.0-beta.4
   - Indium v1.0.30
   - [ETF] Entity Texture Features v5.2.3
   - [EMF] Entity Model Features v1.2.3
