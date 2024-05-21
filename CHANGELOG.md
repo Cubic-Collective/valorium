@@ -1,5 +1,13 @@
 # Changelog
 
+Valorium v0.13.0 - 20/05/2024
+---------------
+
+- **Adicionado**:
+  - Disable Insecure Chat Toast v1.1.0
+  - Equipment Compare v1.3.8
+  - Model Gap Fix v1.15
+
 Valorium v0.12.2 - 18/05/2024
 ---------------
 

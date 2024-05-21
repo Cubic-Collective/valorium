@@ -26,7 +26,7 @@ hash = "c7c3e8871dd46f8cc57248267c4777a30c540084bac1b7cf0612b11bd60f0701"
 
 [[files]]
 file = "configureddefaults/config/defaultoptions/keybindings.txt"
-hash = "bbd226f71b21acf1295b0b142149eb0683d8b6df526383e208aa42dfdb1124d0"
+hash = "b1eac2b8bf385f64120bd646f44f6a17c2444fc0a1645c4900fb52f27a03b7a7"
 
 [[files]]
 file = "configureddefaults/config/defaultoptions/options.txt"
@@ -139,6 +139,11 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
+file = "mods/disableinsecurechattoast.pw.toml"
+hash = "d5948f5f1d2b2214292483a8b5f9b3a05a290a8c282f79b2a07d1541c32f1b28"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "32aac801838ce93ccca60ec99f04293546985c8bc2e2d19fba46953e66a3f53e"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
 
 [[files]]
