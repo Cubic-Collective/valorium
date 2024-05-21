@@ -35,6 +35,7 @@ key_key.hotbar.9:key.keyboard.9:NONE
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown:NONE
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
 key_key.modmenu.open_menu:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.k:NONE
 key_iris.keybind.toggleShaders:key.keyboard.r:NONE
