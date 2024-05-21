@@ -5,6 +5,22 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Client.json"
+hash = "e45b5b35e28eced31597e1342922da50e35fe1fabcfd5508ec9efd6261509e4b"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Common.json"
+hash = "3d1feb9fadc5a7e649d0c78a13e2e91e064d7dba2018c699731d1cfa3a2a8ad8"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Encryption.json"
+hash = "bb9bbb1e70a97d59b518af3d3caf6dc4a39ddd5fa532444b072eac69c756545b"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "configureddefaults/config/authme.json5"
 hash = "6592da7294644aa29d7e9c20f0e0b80aa00870afba22f5cfcba9c6d2372ba4c1"
 
@@ -139,11 +155,6 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
-file = "mods/disableinsecurechattoast.pw.toml"
-hash = "d5948f5f1d2b2214292483a8b5f9b3a05a290a8c282f79b2a07d1541c32f1b28"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
@@ -259,8 +270,8 @@ hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]

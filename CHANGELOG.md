@@ -1,5 +1,15 @@
 # Changelog
 
+Valorium v0.14.0 - 21/05/2024
+---------------
+
+- **Adicionado**:
+  - No Chat Reports v2.2.2
+
+- **Removido**:
+  - Disable Insecure Chat Toast v1.1.0
+  - No Telemetry v1.8.0
+
 Valorium v0.13.0 - 20/05/2024
 ---------------
 
