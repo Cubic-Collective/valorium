@@ -85,6 +85,10 @@ file = "configureddefaults/config/modmenu.json"
 hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
 [[files]]
+file = "configureddefaults/config/seasons.json"
+hash = "773d6e71b8fbb003706ea3cd4a6398e63729ba124b5f56cf8b79431cef29b461"
+
+[[files]]
 file = "configureddefaults/config/sodium-options.json"
 hash = "dfd11277237f96f515da25daa126a1ec7c7c89588acc397fd7f00115c6c8e3b1"
 
