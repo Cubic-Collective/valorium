@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.16.1 - 26/05/2024
+---------------
+
+- **Adicionado**:
+  - Remove Terralith Intro Message v1.0
+
 Valorium v0.16.0 - 26/05/2024
 ---------------
 
