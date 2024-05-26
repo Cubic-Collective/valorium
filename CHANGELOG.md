@@ -1,5 +1,14 @@
 # Changelog
 
+Valorium v0.16.0 - 26/05/2024
+---------------
+
+- **Adicionado**:
+  - Fabric Seasons v2.3
+  - Fabric Seasons Compat: Terralith v2.3.7
+  - Fabric Seasons Extras v1.2
+  - Terralith v2.5.1
+
 Valorium v0.15.0 - 26/05/2024
 ---------------
 
