@@ -33,6 +33,10 @@ file = "configureddefaults/config/builtinservers.json"
 hash = "57c18f5b4b49f5d955d5ee7a089ecc8519305e741f07bcd1b2c71004cbdeb367"
 
 [[files]]
+file = "configureddefaults/config/chunkyborder/config.json"
+hash = "5e9d5139325c011187b65a7202070c180e831cdbf84fffcd56822d4392ba251b"
+
+[[files]]
 file = "configureddefaults/config/cleardespawn.toml"
 hash = "4abf008085bb703d9bfc76ea395e6f961a8712d15820b9be2901e125efccde4b"
 
@@ -112,6 +116,16 @@ metafile = true
 [[files]]
 file = "mods/builtin-servers.pw.toml"
 hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "d1f57e37f09cb403b78dbf617219260bb25898f75ce0bac175eb4b2e32fdbaf9"
 metafile = true
 
 [[files]]
