@@ -86,7 +86,7 @@ hash = "84d37a26afe276c7ce8d34896142c7b1ecc8ce19786deddcff5fafa105a510fa"
 
 [[files]]
 file = "configureddefaults/config/seasons.json"
-hash = "773d6e71b8fbb003706ea3cd4a6398e63729ba124b5f56cf8b79431cef29b461"
+hash = "dd883c1de492bbdf6e11caa16071aa36fcf98b50270ca5583efc3091ad14bc8b"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"

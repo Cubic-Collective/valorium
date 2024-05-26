@@ -1,5 +1,11 @@
 # Changelog
 
+Valorium v0.16.2 - 26/05/2024
+---------------
+
+- **Modificado**:
+  - Correção das hashs dos arquivos do modpack.
+
 Valorium v0.16.1 - 26/05/2024
 ---------------
 
