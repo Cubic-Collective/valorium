@@ -1,5 +1,12 @@
 # Changelog
 
+Valorium v0.15.0 - 26/05/2024
+---------------
+
+- **Adicionado**:
+  - Chunky v1.3.146
+  - Chunky Border v1.1.53
+
 Valorium v0.14.0 - 21/05/2024
 ---------------
 
