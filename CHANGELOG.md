@@ -1,5 +1,22 @@
 # Changelog
 
+Valorium v0.17.0 - 16/06/2024
+---------------
+
+- **Adicionado**:
+  - Configurações para Item Highlighter v1.1.9
+
+- **Modificado**:
+  - Balm v7.2.2 para v7.3.4
+  - Entity Culling v1.6.2 para v1.6.6
+  - [ETF] Entity Texture Features v6.0.1 para v6.1.1
+  - Fabric API v0.92.1 para v0.92.2
+  - Indium v1.0.30 para v1.0.32
+  - Iris Shaders v1.7.0 para v1.7.1
+  - ModernFix v5.17.0 para v5.18.1
+  - Sodium v0.5.8 para v0.5.10
+  - YetAnotherConfigLib v3.4.2 para v3.5.0
+
 Valorium v0.16.2 - 26/05/2024
 ---------------
 
